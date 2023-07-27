@@ -18,6 +18,13 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
-<br>
+##
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-lima-calixto/)
+<div align="center">
+    <a href="https://www.linkedin.com/in/fellipe-lima-calixto" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:fellipe.calixto.santos@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+</div>
